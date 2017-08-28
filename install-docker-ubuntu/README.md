@@ -22,7 +22,7 @@
     ```
 1. Instalamos Docker
     ```
-    $ sudo apt-get isntall -y docker-engine
+    $ sudo apt-get install -y docker-engine
     ```
 1. Docker ya debe estar instalado, verificamos que el servicio se encuentra activo y en ejecucion
     ```    
